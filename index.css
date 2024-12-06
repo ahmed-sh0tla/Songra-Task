@@ -1,0 +1,229 @@
+.navbar-nav{
+    margin-left: auto;
+}
+
+.nav-link{
+    transition: all ease-in-out;
+}
+
+.nav-item:hover a{
+    color: rgb(177, 0, 177);
+}
+
+.hc{
+    color: rgb(177, 0, 177) !important;
+}
+
+.cs1{
+    height: 600px !important;
+}
+
+.s1{
+    left: 50%;
+    top: 50%;
+    font-size: 4rem;
+    transform: translate(-50%,-50%);  
+}
+
+.sett{
+    top: 30%;
+    left: 0;
+}
+
+.a{
+    font-size: 5rem;
+    opacity: 0.3;
+    text-align: center;
+    
+}
+
+.au{
+    text-align: center;
+    transform: translatey(-180%);
+}
+
+.progress{
+    height: 0.5rem;
+}
+
+.progress-bar{
+    background-color: rgba(177, 0, 177, 0.5);
+}
+
+.sec{
+    height: 100vh;
+    background-image: url('https://agora-website-brown.vercel.app/images/mission.jpg');
+    background-position: center;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+.ico1{
+    padding-top: 8rem;
+}
+
+
+
+.ico2{
+    padding-top: 4rem;
+    padding-left: 2rem;
+}
+
+.ico3{
+    padding-top: 4rem;
+    padding-left: 15rem;
+}
+
+.og-ico p{
+    transition: all 0.2s ease-in-out;
+}
+
+.og-ico:hover p{
+    color: blueviolet !important;
+}
+
+.spool{
+    position: relative;
+}
+
+
+
+.overlay{
+    opacity: 0;
+    background-color: rgba(174, 18, 174, 0.325);
+    position: absolute;
+    top: 0;
+    width: 93%;
+    height: 80%;
+    transition: all 0.2s ease-in-out;
+}
+
+.spool:hover .overlay{
+    opacity: 1;
+}
+
+.spool:hover .pfors{
+    color: rgba(174, 18, 174, 0.708);
+}
+
+.spool img{
+    transition: all 0.2s ease-in-out;
+}
+
+
+.spool:hover img{
+    transform: scale(1.1);
+}
+
+.borderog{
+    border: 2px solid rgba(174, 18, 174, 0.708) ;
+    padding: 5px 20px 5px 20px ;
+}
+
+.borderogcolor{
+    color: rgba(174, 18, 174, 0.708);
+}
+
+.borderog2 a{
+    transition: all 0.2s ease-in-out;
+}
+
+.borderog2:hover a{
+    color: rgba(174, 18, 174, 0.708) !important;
+}
+
+
+.overlay2{
+    opacity: 0;
+    background-color: rgba(255, 255, 255, 0.671);
+    position: absolute;
+    top: 0;
+    left: 30px;
+    width: 80%;
+    height: 90%;
+    transition: all 0.2s ease-in-out;
+}
+
+.spool:hover .overlay2{
+    opacity: 1;
+    top: 20px;
+}
+
+
+.cu{
+    margin-top: 150px;
+}
+
+.pcu{
+    padding-left: 7rem;
+}
+
+
+.bcu{
+    margin-left: 40%;
+    border: none;
+    background-color: rgba(174, 18, 174, 0.708);
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
+.ps1p{
+    transition: all 0.2s ease-in-out;
+}
+
+.ps1p:hover{
+    color: rgb(179, 129, 227) !important;
+}
+
+.takpir{
+    font-size: 60px;
+}
+
+.wama{
+    position: absolute;
+    top: 10%;
+    right: 3%;
+    background-color: rgb(174, 18, 174);
+    padding: 1%;
+    color: white;
+}
+
+.woww{
+    color: rgb(174, 18, 174);
+
+}
+
+
+.footer{
+    position: relative;
+    margin-top: 7%;
+}
+
+.icooon{
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    font-size: 60px;
+}
+
+.icooon2{
+    position: absolute;
+    top: -15%;
+    left: 45%;
+    font-size: 60px;
+}
+
+
+
+
+.info{
+    position: absolute;
+    top: 55%;
+    padding-left: 8%;
+
+}
+
+.io0{
+    background-color: rgba(174, 18, 174, 0.603);
+}
